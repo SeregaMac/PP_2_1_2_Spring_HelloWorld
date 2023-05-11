@@ -18,8 +18,4 @@ public class App {
         System.out.println("Ссылки на объекты HelloWorld одинаковы? :" + (bean == beanTwo));
         System.out.println("Ссылки на объекты Cat одинаковы? :" + (cat1 == cat2));
     }
-
-
-
-
 }
